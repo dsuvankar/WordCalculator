@@ -1,0 +1,28 @@
+body {
+  padding: 50px 100px;
+}
+h1 {
+  text-align: center;
+}
+#container {
+  text-align: center;
+  background-color: rgb(232, 235, 174);
+  padding: 50px;
+}
+
+.input-div {
+  display: inline-block;
+}
+
+.inp {
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 25px;
+  font-weight: bolder;
+  width: 150px;
+  text-align: center;
+}
+label {
+  font-size: x-large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
